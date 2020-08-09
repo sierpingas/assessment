@@ -1,0 +1,21 @@
+body {
+  background-color: #BCB8B1;
+  color: black;
+  font-family: 'メイリオ', 'Meiryo','ＭＳ ゴシック','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3',sans-serif;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+h1 {
+  font-size: 40px;
+}
+button {
+  padding: 5px 20px;
+  background-color: black;
+  border-style: none;
+  color: white;
+  font-size: 15px;
+}
+input {
+  height: 30px;
+}
